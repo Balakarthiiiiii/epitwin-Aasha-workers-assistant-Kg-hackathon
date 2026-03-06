@@ -1,0 +1,12 @@
+{
+  "cases_last_7_days": 0.21314654889194382,
+  "open_defecation_index": 0.1575570671420963,
+  "severity": 0.13945539437302948,
+  "water_source_risk": 0.09806404564596413,
+  "symptom_encoded": 0.07325010629781771,
+  "distance_to_clinic_km": 0.0725511804308858,
+  "humidity_percent": 0.07034524088446752,
+  "population_density": 0.06512092766446956,
+  "avg_temperature_c": 0.06290679264340636,
+  "season_encoded": 0.04760269602591944
+}
